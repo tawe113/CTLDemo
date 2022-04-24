@@ -1,5 +1,5 @@
 # CTLDemo
-"""
+
 Data Visualization for CTL.
 Main features:
     1. Ability to run the script regardless of computer/directories; you can also simply
@@ -15,4 +15,3 @@ Use python 3, you may need to download the following libraries:
     pip install numpy
 
 To run: type "python3 data.py" in the CTLData directory.
-"""
